@@ -1,0 +1,3 @@
+[submodule "Docker-Compose"]
+	path = Docker-Compose
+	url = https://github.com/resilmesh2/Docker-Compose.git
